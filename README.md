@@ -4,5 +4,5 @@
 
 👩‍💻Currently learning to analyse and manipulate data
 
-🐍🐼 Working mostly in Python & Pandas!
+🐍🐼 Working mostly in Python, Pyspark & SQL!
 
