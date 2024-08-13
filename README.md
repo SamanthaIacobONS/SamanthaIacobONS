@@ -2,7 +2,7 @@
 
 📈I'm a data architecture/engineering apprentice with the Office of National Statistics.
 
-👩‍💻Currently learning to analyse and manipulate data
+👩‍💻Currently making data tools and learning about data linkage
 
-🐍🐼 Working mostly in Python, Pyspark & SQL!
+🐍🌟𝄜 Working mostly in Python, Pyspark & SQL!
 
