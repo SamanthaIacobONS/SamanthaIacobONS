@@ -1,8 +1,1 @@
-👋Hi! my name is Samantha Iacob (pronounced something like "Yak Kob").
-
-📈I'm a Data Architect with the Office of National Statistics.
-
-🐍𝄜🌟 I can code in Python, SQL, PySpark and a smattering of other languages
-
-🗯️ I'm mostly learning various RDF vocabularies at the moment
-
+I'm Sam Iacob, an ONS data architect. I spend most of my time data modelling and reading through W3C standards but sometimes I will get up and code something or maybe have an argument with someone about whether a relationship should be identifying or non-identifying.
